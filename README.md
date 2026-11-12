@@ -207,4 +207,4 @@ This repository serves as the official landing page for Acronis Backup for PC. T
 **Get the most recent version of Acronis Backup for PC today!**
 
 ---
-**Last updated:** 2026-11-11 17:46:44 UTC
+**Last updated:** 2026-11-12 00:18:47 UTC
